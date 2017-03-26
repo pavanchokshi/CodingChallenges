@@ -15,6 +15,16 @@ When the input field contains at least one character and the user hits Enter or 
 ## Evaluation ##
 Evaluation of your submission will be based on the following criteria. Additionally, reviewers will attempt to assess your familiarity with standard libraries as well as with language idioms.
 
-1. Did your application fulfill the basic requirements?
+1. Did your application fulfill the basic requirements? 
+A. Yes.
+
 2. Did you document the method for setting up and running your application?
+A. Yes, please see the notes below.
+
 3. Did you follow the instructions for submission?
+A. Yes.
+
+## Submission Notes ##
+The code files are placed in the 'Solution' folder. It contains index.html, styles.css and script.js files. The submitted application fulfills all the criteria mentioned above. 
+
+To view the applciation, download or clone the repo and open the index.html file in browser. No additional installation needed.
