@@ -27,4 +27,4 @@ A. Yes.
 ## Submission Notes ##
 The code files are placed in the 'Solution' folder. It contains index.html, styles.css and script.js files. The submitted application fulfills all the criteria mentioned above. 
 
-To view the applciation, download or clone the repo and open the index.html file in browser. No additional installation needed.
+To view the application, download or clone the repo and open the index.html file in browser. No additional installation needed.
